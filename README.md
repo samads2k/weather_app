@@ -1,2 +1,2 @@
 # Weather App
-![](example/seattle_ex.png)
+![](weather-app copy/example/seattle_ex.png)
