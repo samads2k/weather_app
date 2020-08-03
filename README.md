@@ -1,3 +1,3 @@
 # Weather App
-# Used React library and an API to create an app that retrieved the temperature and humidity of a city that is entered by the user.
+# Used React library to create an app that retrieved the temperature and humidity of a user-inputted city from an API.
 # ![](/example/seattle_ex.png)
